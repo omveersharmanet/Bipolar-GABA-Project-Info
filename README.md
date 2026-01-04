@@ -30,7 +30,7 @@ For the fastest access to the live repository, please send an email with your Gi
 ### 🧪 Project Summary
 This study investigates how divergent excitability in GABAergic neurons derived from Bipolar Disorder patients, potentially mimicking states of mania and depression.
 
-**Author:** Omveer Sharma
+**Corresponding Author :** Omveer Sharma
 
 ---
-*For any direct inquiries regarding the simulation parameters, please contact the author.*
+*For any direct inquiries regarding the simulation parameters, please contact the corresponding author.*
