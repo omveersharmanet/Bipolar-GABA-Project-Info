@@ -22,7 +22,7 @@ For the fastest access to the live repository, please send an email with your Gi
 **Official Code DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18143049.svg)](https://doi.org/10.5281/zenodo.18143049)
 
 1. Visit the [Zenodo Record](https://doi.org/10.5281/zenodo.18143049).
-2. Click the blue **"Request Access"** button.
+2. Click the **"Request Access"** button.
 3. Provide your details and purpose of request.
 
 ---
